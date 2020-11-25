@@ -1,0 +1,54 @@
+# Les voies de contamination des aliments
+
+Les dangers peuvent être introduits dans les aliments en tout temps, durant ([ACIA, 2014a](https://www.inspection.gc.ca/salubrite-alimentaire-pour-l-industrie/directives-archivees-sur-les-aliments/non-enregistre-au-federal/inspection-des-produits/manuel-d-inspection/fra/1393949957029/1393950086417?chap=5)) :
+
+-	la récolte, 
+
+-	la formulation et la transformation, 
+
+-	l'emballage et l'étiquetage, 
+
+-	le transport, 
+
+-	l'entreposage, 
+
+-	la préparation 
+
+-	ou le service.
+
+Lorsqu’un animal est atteint d'une maladie zoonotique donnée, ses tissus y compris ses produits (viande, lait ou œufs) sont des sources possibles d'infection humaine dès lors que ceux-ci entrent dans la chaîne alimentaire.
+
+Plus souvent, toutefois, les animaux peuvent être infectés par des pathogènes zoonotiques et montrer peu de (ou aucun) signes cliniques. Ces "porteurs sains" sont plus difficiles à détecter, que ce soit à la ferme ou à l'abattoir, ce qui pose un problème d'éradication. 
+
+La plupart des organismes pathogènes sont hébergés dans l'intestin des animaux sains et peuvent se propager aux êtres humains par la contamination de l'environnement à travers les matières fécales, ou par des produits comme le lait pendant la traite, ou les œufs au cours de la ponte. De plus, il arrive que le contenu intestinal contamine partiellement la carcasse après l'abattage et se retrouve sur la viande crue.
+
+La contamination croisée d'autres aliments peut survenir dès lors que ceux-ci sont en contact avec un produit contaminé soit directement, pendant la conservation ou la préparation, soit indirectement introduits dans les fabriques d'aliments en raison des pratiques de production employées :
+
+-	lors du contact avec les surfaces de travail, les ustensiles ou d'autres objets ;
+
+-	utilisation d'additifs pour transformer les grains et d'autres ingrédients ;
+
+-	ajout de médicaments et présence de résidus de médicaments dans l'équipement utilisé à d'autres fins ;
+
+-	erreurs de fabrication menant à l'ajout accidentel de médicaments ou d'ingrédients pouvant nuire à certaines espèces.
+
+Les dangers que présentent les ingrédients individuels peuvent être transmis aux aliments mélangés.
+
+Les procédés de fabrication des ingrédients ne permettent pas toujours d'éliminer ou de réduire les substances dangereuses présentes dans les matières premières ou qui s'introduisent dans l'ingrédient en question (p. ex. métaux, pesticides). Voilà pourquoi il faut les identifier et les prendre en considération dans la formulation et la production des aliments mélangés du bétail.
+
+Une contamination durant le **transport**, la **manipulation**, l'**emballage**, l'**entreposage** et la **distribution** des produits peut mener à l'introduction de dangers dans les aliments du bétail et les ingrédients connexes. Les **engrais** ou autres matières en vrac qui restent dans :
+
+-	des wagons, 
+
+-	des remorques, 
+
+-	des silos 
+
+-	ou d'autres véhicules 
+
+-	ou équipements d'entreposage 
+
+..., qui ne sont pas conçus spécialement pour les aliments du bétail sont aussi concernés.
+
+Les **fruits** ou **légumes** qui ont été arrosés ou lavés dans de l'eau non traitée contaminée par des déjections animales peuvent également être une source d'infection pour l'homme.
+

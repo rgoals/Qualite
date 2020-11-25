@@ -1,0 +1,292 @@
+# Effets des contaminants sur la salubrité des aliments pour animaux et risques de santé publique
+
+##	Les contaminants environnementaux
+
+Les contaminants environnementaux sont des produits chimiques qui sont accidentellement ou délibérément relâchés dans l'environnement, et sont souvent, mais pas toujours le résultat d'activités humaines. Certains de ces contaminants peuvent avoir été fabriqués à des fins industrielles et en raison de leur grande stabilité, ils ne se décomposent pas facilement.
+
+S'ils sont relâchés dans l'environnement, ils peuvent entrer dans la chaîne alimentaire. D'autres contaminants environnementaux sont des produits chimiques qui existent à l'état naturel, mais leur mobilité ou la quantité disponible peut être accrue par l'activité industrielle. Ils peuvent ainsi circuler dans l'environnement et entrer dans la chaîne alimentaire à des concentrations plus élevées que la normale.
+
+Les [**plus courants**](https://www.canada.ca/fr/sante-canada/services/aliments-nutrition/salubrite-aliments/contaminants-chimiques/contaminants-environnementaux.html) sont le **plomb**, l'**arsenic**, les **bromates**, les **dioxines**, les **furanes**, le **mercure** et les **biphényles polychlorés**.
+
+###	L'arsenic
+
+L'arsenic est un élément présent à l'état naturel et très répandu dans l'écorce terrestre. On en trouve des quantités traces dans le sol, la roche, l'eau et l'air. L'arsenic existe sous formes organique et inorganique (minérale). 
+
+L'arsenic organique peut se trouver dans le poisson, les mollusques et les crustacés, et c'est la forme la moins dangereuse d'arsenic. 
+
+Quant à l'arsenic inorganique, ces composés sont omniprésents dans l'environnement. Ils peuvent être libérés dans l'air par différents processus comme l'activité volcanique, l'exploitation minière de minerais contenant de l'arsenic, ainsi que par des procédés commerciaux comme la fusion du cuivre ou du plomb, le traitement du bois et la pulvérisation de pesticides.
+
+L'**arsenic inorganique est cancérogène** ; l'exposition à long terme augmente le risque de cancer de la peau, des poumons, de la vessie, du foie, des reins et de la prostate.
+
+###	Le cadmium
+
+Le cadmium est un élément qui se trouve rarement à l'état pur dans la nature, mais qui peut exister sous forme combinée à d'autres éléments, formant alors des composés comme l'**oxyde de cadmium**, le **chlorure de cadmium** et le **sulfure de cadmium**.
+
+Le cadmium entre dans la fabrication de piles, de pigments, d'enduits, de placages, de stabilisants de plastiques, et est utilisé pour le traitement et la fonte des minerais.
+
+Il se retrouve ensuite dans l'environnement dans les déchets, les eaux usées et est mobilisé par le sol.
+
+La majeure partie du cadmium qui pénètre dans l'organisme par ingestion provient, soit directement de plantes qui ont été cultivées dans un sol contaminé, soit **indirectement de viande d'animaux qui ont consommé des plantes cultivées dans un sol contaminé**. 
+
+Le cadmium et ses composés sont **toxiques** et on les soupçonne aussi d'être **cancérogènes**.
+
+###	Le plomb
+
+Le plomb est un métal lourd toxique qui se trouve dans l'environnement dans des sources comme la poussière et le sol. Il peut aussi se trouver dans l'eau et dans certains produits alimentaires (sirop et miel) qui ont été en contact avec de vieux tuyaux ou ustensiles de cuisine soudés au plomb. On retrouve également du plomb dans les anciennes peintures.
+
+Il a été démontré que le plomb cause des troubles neurologiques, des troubles de reproduction et une diminution de l'intelligence. Les nourrissons et les jeunes enfants sont particulièrement à risque. Étant en croissance, ils absorbent une plus grande proportion de plomb dans les aliments que les adultes. Les femmes enceintes sont également sensibles au plomb. 
+
+Le plomb peut avoir d'autres effets, notamment des troubles des fonctions mentales, de la motricité visuelle et l'anémie. Les symptômes d'une exposition au plomb peuvent également être subtils : irritabilité, maux de tête, insomnie, troubles gastro-intestinaux, problèmes d'apprentissage et de comportement et troubles rénaux.
+
+###	Le mercure
+
+Le mercure est un métal lourd présent à l'état naturel dans les roches et les sols. Il peut également se retrouver dans les lacs, les cours d'eau et les océans. La combustion de combustibles fossiles, l'exploitation minière, les industries des pâtes et papiers et l'incinération de déchets peuvent également entraîner l'émission de mercure dans l'environnement.
+
+On trouve du mercure à l'état de traces dans presque tous les aliments, à de très faibles concentrations dans les légumes et les fruits, et à des concentrations élevées dans certains types de poissons comme le requin, l'espadon, le makaire, l'escolar et l'hoplostèthe orange, lesquels absorbent le mercure des organismes qu'ils consomment et de l'eau dans laquelle ils vivent.
+
+Il y a deux types de mercure soit le mercure inorganique et le mercure organique. Le mercure organique (méthylmercure) est la forme la plus fréquemment trouvée dans l'environnement aquatique, et la plupart des poissons en contiennent à l'état de traces. On a observé que les concentrations de mercure étaient généralement plus élevées dans les poissons gros et vieux, en raison de la bioaccumulation. 
+
+On croit que le méthylmercure pourrait être cancérogène.
+
+L'exposition au mercure peut avoir plusieurs effets sur la santé : dommages au système nerveux, aux reins et au fœtus. D'autres effets peuvent être observés, notamment des dommages au cerveau, de l'irritabilité, des tremblements, des troubles de la mémoire ainsi que des changements de la vision et de l'audition. Les enfants sont plus sensibles au mercure que les adultes.
+
+Selon le groupe scientifique CONTAM, le méthylmercure est le composé du mercure organique le plus fréquemment rencontré dans l’environnement. Il fait l’objet d’une bioaccumulation et d’une bioamplification le long de la chaîne alimentaire, en particulier dans la chaîne alimentaire aquatique, et est aisément absorbé par l’appareil digestif de l’animal et de l’homme, ce qui peut entraîner des lésions rénales et avoir des effets néfastes sur le développement neurologique.
+
+La source la plus courante de mercure dans les matières premières destinées à l'alimentation animale est la farine de poisson (complément riche en protéines obtenu à partir des déchets de pêche ou de poisson impropre à la consommation humaine).
+
+Pour plus d’informations sur le mercure ([**Alexander et. al, 2008a**](https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2008.654)) : Le mercure en tant que substance indésirable dans les aliments pour animaux - Avis du groupe scientifique sur les contaminants de la chaîne alimentaire.
+
+###	Dioxines et furanes
+
+Les termes "**dioxines**" et "**furanes**" désignent des grandes familles de substances chimiques. Ce sont des composés organiques **inodores** et **incolores** contenant du **carbone**, de l'**hydrogène**, de l'**oxygène** et du **chlore**.
+
+Sur les 210 composés différents appartenant à la famille des "**dioxines**", seuls 17 présentent un risque toxicologique. Le plus toxique et le plus étudié d'entre eux est la 2,3,7,8-tétrachlorodibenzo-p-dioxine (2,3,7,8-TCDD). Sa toxicité intervient à des concentrations de l’ordre du « **partie par trillion** » (**ppt**). 
+
+Ces composés ne sont pas produits de manière intentionnelle, ils se forment lors de processus chimiques. Ils sont issus, tant des phénomènes naturels tels que les éruptions volcaniques et les feux de forêt, que des processus d'origine humaine tels que la fabrication de produits chimiques, de pesticides, d'acier et de peintures, le blanchiment de la pâte et du papier, les émissions de gaz d'échappement et l'incinération.
+
+L'utilisation et l'élimination de substances chimiques peuvent entraîner une contamination localisée plus grave. Les déchets chlorés brûlés de manière non réglementée les rejettent dans l'atmosphère.
+
+Le transport et les retombées atmosphériques de dioxines, furanes et PCB (Biphényl polychlorés) sont également les principales sources de contamination des végétaux à feuilles, des pâturages et des fourrages grossiers. La terre est absorbée, directement ou indirectement via des dépôts de poussière sur les végétaux, par le bétail (bovins, chèvres, moutons, ...) et les poulets en liberté, qui mangent de la végétation, ainsi que par des sangliers et des cochons, qui fouissent et mangent de la végétation. En dehors des retombées atmosphériques, les sols peuvent être pollués par des boues d'épuration ou des composts, des déversements et l'érosion de zones contaminées avoisinantes. L'épandage des boues d'épuration sur la végétation peut augmenter, dans une certaine mesure, l'exposition du bétail. Le sol constitue un puits naturel.
+
+Les végétaux contaminés peuvent aussi être récoltés et conservés sous forme sèche (foin) ou d'ensilage. 
+
+Ces substances se concentrent dans les tissus adipeux des animaux et des fruits de mer. Théoriquement, plus la durée de vie de l'animal est longue, plus elles sont susceptibles de s'accumuler.
+
+Plus de 90% de l'exposition des êtres humains provient des produits alimentaires dont 80% des produits d'origine animale. L’exposition des animaux provient principalement des aliments pour animaux. 
+
+La contamination chimique par ces substances (dioxines, furanes, PCB, hydrocarbonés polycycliques aromatiques) peut se produire à différents stades de la chaîne alimentaire allant de l’étable à la table. 
+
+Les techniques d’analyse modernes permettent de détecter ces composés dans les aliments, même à de très faibles concentrations.
+
+##	Les mycotoxines
+
+Les **mycotoxines** sont des toxines naturelles produites par des champignons qui peuvent être toxiques pour l’animal et l’homme. Elles sont produites par des moisissures qui poussent sur les plantes et les aliments dans certaines conditions.
+
+Il existe plusieurs types de mycotoxines dans l'environnement, mais seuls quelques-unes sont communes dans les aliments et sont généralement associées à certaines grandes cultures comme le maïs.
+
+Les mycotoxines les plus répandues causant des problèmes de santé chez les humains sont l'**aflatoxine**, le **désoxynivalénol**, l'**ochratoxine**, la **fumonisine** et la **patuline**.
+
+Voici certaines des caractéristiques générales des mycotoxines :
+
+-	elles sont résistantes à la chaleur ;
+
+-	elles sont des métabolites secondaires produites par des champignons en réponse à des pressions exercées par d'autres champignons ou bactéries concurrentes ;
+
+-	elles peuvent avoir des propriétés antibiotiques ;
+
+-	elles ont des effets toxiques sur les cellules chez l’homme comme chez l’animal ;
+
+-	elles causent des effets chroniques comme divers cancers, l'immunosup-pression, un retard de croissance, des anomalies congénitales, des troubles rénaux ;
+
+-	elles ont des effets graves à long terme, même à de petites concentrations ;
+
+-	elles sont habituellement associées à certaines cultures (maïs, céréales, pommes).
+Pour plus d’informations ([**Santé Canada, 2020**](https://www.canada.ca/fr/sante-canada/services/aliments-nutrition/salubrite-aliments/contaminants-chimiques/toxines-naturelles.html)) : Les toxines naturelles.
+
+###	L'aflatoxine
+
+L'**aflatoxine** est produite par la moisissure _Aspergillus flavus_.
+
+Les produits présentant un potentiel élevé de contamination par l'aflatoxine sont les noix, les arachides, le beurre d'arachide, les figues et le maïs. 
+
+Des aliments pour animaux contaminés peuvent se traduire par des concentrations élevées d'aflatoxine dans le lait. 
+
+Une sécheresse pendant la saison de croissance et un taux élevé d'humidité durant l'entreposage favorisent la prolifération d'Aspergillus et, par conséquent, la production d'**aflatoxine**.
+
+L'aflatoxine est un **cancérogène** potentiel associé au **cancer du foie**.
+
+###	Le désoxynivalénol (vomitoxine)
+
+Le **désoxynivalénol** (**DON**) classé dans la famille des Trichothécènes, est produit par diverses espèces de moisissures, les plus fréquentes étant _Fusarium graminearum_ et _F. sporotrichioide_.
+
+Les espèces de Fusarium sont très répandues et leurs toxines sont observées dans une grande variété de céréales, de grains et d'aliments pour animaux. Ce métabolite est souvent présent dans les cultures comme le blé, l'orge et le maïs.
+
+Le DON n'est pas réputé cancérogène. Néanmoins, il est un puissant inhibiteur de la synthèse des protéines et de l'ADN et a des effets immunosuppresseurs et cytotoxiques.
+
+Les **symptômes** observés chez l'humain à la suite d'une exposition à ses toxines sont des **vomissements**, une **dermatite**, de la **toux** et une **rhinite**.
+
+###	L'ochratoxine A
+
+L'**ochratoxine** A (OTA) est un métabolite toxique produit par _Aspergillus ochraxeus_, _Penicillium verrucosum_ et d'autres espèces de moisissures. C'est l'une des mycotoxines les plus fréquentes dans les aliments mal conservés.
+
+L'OTA se trouve dans le maïs, les arachides et la végétation en décomposition. Elle est aussi observée dans des céréales moisies comme le blé, le seigle, l'orge, l'avoine et dans d'autres denrées, notamment le pain, la farine, les haricots, les pois, le riz, le café et dans des échantillons de viande issus d'animaux ayant consommé des aliments contaminés à l'OTA.
+
+L'ochratoxine A est **cancérogène** pour les humains. Elle cause aussi des lésions et a des **effets tératogènes et neurotoxiques**.
+
+###	La fumonisine
+
+La **fumonisine** est une toxine produite par diverses espèces de moisissures, le plus souvent par Fusarium moniliform et F. proliferatum.
+
+La fumonisine est l'une des mycotoxines les plus fréquemment observées dans le maïs.
+
+Les périodes de temps chaud et sec, suivies de temps très humide favorisent des concentrations élevées de fumonisine.
+
+La fumonisine cause deux maladies chez les animaux : 
+
+-	les **œdèmes pulmonaires porcins** et 
+
+-	la **leucoencéphalomalacie des équidés**. 
+
+Cette mycotoxine est préoccupante pour les humains car elle causerait le cancer de l'œsophage et du foie, et favoriserait l'apparition d'anomalies du tube neural chez les bébés.
+
+###	La patuline
+
+La **patuline** est une toxine chimique produite par diverses espèces de moisissures dont _Penicillium spp._, _Aspergillus spp._ et _Byssochlamys spp_.
+
+Elle est thermostable à un pH < 6 et résiste au traitement thermique.
+
+Cette toxine peut être présente dans les fruits moisis (_pommes, poires, pêches, raisins_) ainsi que dans les légumes et les grains moisis. Cependant, les pommes et les produits à base de pommes constituent la principale source de contamination. L'utilisation de fruits moisis pour la fabrication de jus augmente les possibilités de contamination.
+
+La **patuline** est réputée **génotoxique**, causant des dommages à l'ADN et aux chromosomes, ce qui a mené à des théories lui attribuant des propriétés **cancérogènes**.
+
+##	Les dangers biologiques
+
+###	Danger biologique d’origine bactérienne
+
+Les bactéries sont des microorganismes unicellulaires existant dans divers habitats. Elles peuvent vivre librement (_dans le sol, l'air ou l'eau_) ou en symbiose (_dans l'intestin ou les muqueuses des animaux et des humains_).
+
+Les bactéries ont un large éventail de propriétés enzymatiques, biochimiques et pathogènes.
+
+Les principales bactéries associées aux maladies d'origine alimentaire sont :
+
+> _Bacillus cereus, Campylobacter jejuni, Clostridium botulinum, Clostridium perfringens, Escherichia coli O157:H7, Escherichia coli 0104:H4, Listeria monocytogenes, Salmonella spp., Shigella spp., Staphylococcus aureus, Vibrio cholerae, Vibrio parahaemolyticus, Vibrio vulnificus, Yersinia enterocolitica, Cronobacter sakazakii_
+
+L'ingestion d'aliments contaminés par des microorganismes pathogènes ou leurs sous-produits toxiques peut causer des maladies d'origine alimentaire. Ces dernières peuvent prendre la forme d'une **infection** ou d'une **intoxication**, ou des deux.
+
+Les microorganismes infectieux nuisent à leur hôte par des mécanismes qui éliminent les microorganismes bénéfiques, épuisent les ressources de l'hôte, et détruisent les tissus de l'hôte.
+
+Une maladie d'origine alimentaire causée par une infection peut prendre des jours ou des semaines à se manifester, ce qui complique souvent l'identification de l'agent causal.
+
+D'un autre côté, une maladie causée par une intoxication apparaît souvent dans les heures suivant la consommation de l'aliment suspect.
+
+Les **intoxications** sont causées par des toxines qui sont produites par le microorganisme, soit dans l'aliment lui-même, soit après l'ingestion.
+
+###	Danger biologique d’origine virale
+
+Contrairement aux autres microorganismes, les virus actifs sont constitués de segments uniques d'ADN ou d'ARN contenus dans une mince couche de protéines et ne peuvent survivre sans leurs hôtes vivants.
+
+Selon la combinaison d'ADN ou d'ARN et la couche de protéines, les virus peuvent être très infectieux et souvent pathogènes. Ils se multiplient en s'introduisant dans une cellule hôte dont ils modifient la fonction pour qu'elle réplique des composantes virales.
+
+Les virus fréquemment associés à des problèmes de salubrité des aliments sont les suivants :
+
+-	Bactériophages
+
+-	Virus entériques (_autres que l'hépatite A et les norovirus_)
+
+-	Virus de l'hépatite A
+
+-	Norovirus
+
+-	Virus de Norwalk
+
+-	Rotavirus
+
+Les virus sont généralement introduits dans les aliments en raison de mauvaises pratiques de manipulation par des personnes infectées (mauvaise hygiène personnelle) ou par des ingrédients contaminés (eau contaminée).
+
+##	Les pesticides et les produits agricoles
+
+Les **pesticides** jouent un rôle important dans l'approvisionnement alimentaire car ils servent à protéger les aliments contre les parasites et les maladies.
+
+Lorsque des pesticides sont utilisés sur des cultures destinées à l'alimentation ou que des animaux sont nourris de plantes traitées avec des pesticides, il est possible que des résidus soient présents dans les aliments ou à leur surface.
+
+Les pesticides représentent un enjeu important car ils s'accumulent dans la chaîne alimentaire et peuvent contaminer l'environnement.
+
+Un exemple classique est le cas du **dichloro-diphényl-trichloroéthane (DDT)**. C’est l'un des pesticides de synthèse les plus connus car il a permis d'éviter de nombreux décès en luttant contre l'insecte vecteur de la **malaria**, mais en même temps, son utilisation était controversée.
+
+De fait, il a été interdit en 1972 en raison des dommages qu'il causait à la faune, en particulier aux oiseaux, s'accumulant dans les plantes et dans les tissus adipeux des poissons, des oiseaux et d'autres animaux sauvages. On croit que le DDT est cancérogène, et il en reste encore dans l'environnement à l'heure actuelle.
+
+Il est important de déterminer si l'ingestion des résidus de pesticides les plus susceptibles de demeurer dans un aliment ou à sa surface présente un risque inacceptable pour la santé, et d’établir en conséquence une **Limite Maximale de Résidus (LMR)**.
+
+La **LMR** est la quantité de pesticide jugée sans danger et autorisée qui peut rester sur les aliments lorsqu'ils sont vendus.
+
+##	Cas du gossypol (étude du Groupe CONTAM)
+
+Le **gossypol** est un composé de protection produit par les cotonniers pour lutter contre les organismes nuisibles.
+
+Étant donné que les graines de coton sont riches en huile et en protéines, elles sont souvent utilisées comme suppléments alimentaires. Cependant, le gossypol est recensé comme une substance indésirable dans les aliments pour animaux.
+
+Les organes reproducteurs mâles sont les principaux organes cibles de la toxicité du gossypol consécutive à une exposition de longue durée chez les mammifères, y compris les humains. Le gossypol entraîne une réduction du nombre et de la motilité des spermatozoïdes. 
+
+Les monogastriques tels que le porc et le lapin, seraient les espèces les plus sensibles à la toxicité du gossypol, les ruminants s’avérant plus tolérants.
+
+Les données manquent concernant la teneur en gossypol des aliments pour animaux et son passage dans les produits animaux. 
+
+La transformation des graines de coton destinées à la commercialisation au moyen de chaleur et de vapeur réduit considérablement les teneurs en gossypol. 
+
+Le groupe scientifique CONTAM a conclu que les taux maximums de gossypol dans les aliments pour animaux prévus dans la législation ne devraient pas entraîner d’effets indésirables pour la santé animale. De manière similaire, la présence de résidus dans les produits animaux serait très improbable et ne porterait pas atteinte à la santé humaine.
+
+Pour plus d’informations [(**Alexander et. al, 2008b**)](https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2009.908) : Gossypol as undesirable substance in animal feed - Scientific Opinion of the Panel on Contaminants in the Food Chain.
+
+##	Les médicaments vétérinaires
+
+Les **médicaments vétérinaires** sont souvent utilisés sur des animaux destinés à l'alimentation humaine pour lutter contre une maladie ou la prévenir chez l'animal.
+
+Si les médicaments ne sont pas utilisés adéquatement ou si le délai d'attente avant l'abattage n'est pas respecté, les résidus de ces médicaments peuvent se retrouver dans les produits. 
+Ces résidus peuvent être le médicament lui-même ou ses métabolites découlant de la digestion animale et peuvent être nocifs pour le consommateur.
+
+Les LMR représentent la Limite Maximale de Résidus tolérée dans les produits alimentaires et les tissus d'animaux ayant été traités au moyen de médicaments vétérinaires. Il s'agit en d’autres termes, de la concentration de résidus considérée comme n'ayant aucun effet indésirable sur la santé lorsqu'elle est ingérée quotidiennement par des consommateurs pendant toute leur vie.
+
+Source principale ([Santé Canada, 2018](https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/medicaments-veterinaires.html)) : Médicaments vétérinaires.
+
+##	Les additifs alimentaires
+
+Un **additif alimentaire** est « toute **substance chimique qui est ajoutée à un aliment lors de sa préparation ou avant son entreposage, pour devenir un de ses ingrédients ou pour en modifier les caractéristiques afin d'obtenir un effet technique particulier** ».
+
+Les substances qu'on ajoute aux aliments pour en préserver la qualité nutritive, en améliorer la conservabilité, les rendre plus attrayants ou aider à les transformer, à les emballer ou à les entreposer sont toutes considérées comme des additifs alimentaires. Mais, certaines substances facilitant la transformation d'un aliment sont, dans certaines conditions, considérées comme des **agents technologiques** alimentaires, et non pas comme des additifs.
+
+Les additifs sont classés selon leurs fonctions : **colorant**, **conservateur**, **antioxydant**, **régulateur d’acidité**, **émulsifiants et stabilisants**, **agents antiagglomérants**, **agents aromatiques**.
+
+Un **agent technologique** est un « **produit utilisé dans la fabrication de produits alimentaires qui n'est pas présent dans le produit alimentaire fini, c'est-à-dire qu'il ne reste aucun résidu à la fin du processus** ». Un agent technologique n'est pas considéré comme un additif alimentaire.
+
+Parfois, des additifs alimentaires peuvent se trouver dans des aliments à des concentrations excédant celles prescrites. L'aliment peut alors représenter un risque pour le consommateur, comme c'est le cas notamment avec certains colorants synthétiques non permis (_soudan, rhodamine et jaune de gardénia_).
+
+Source principale ([**Santé Canada, 2016**](https://www.canada.ca/fr/sante-canada/services/aliments-nutrition/salubrite-aliments/additifs-alimentaires.html)) : Additifs alimentaires.
+
+##	Les dangers physiques et matières étrangères
+
+Les **matières étrangères** comprennent toutes les matières (_à l'exception des bactéries et de leurs sous-produits [toxines], des virus et des parasites_), qui peuvent se retrouver dans un aliment et qui y sont étrangères ([ACIA, 2014a](https://www.inspection.gc.ca/salubrite-alimentaire-pour-l-industrie/directives-archivees-sur-les-aliments/non-enregistre-au-federal/inspection-des-produits/manuel-d-inspection/fra/1393949957029/1393950086417?chap=5)).
+
+Ces matières ne sont habituellement pas toxiques, mais elles sont associées à l'insalubrité des conditions de production, de transformation, de manipulation, d'entreposage et de distribution.
+
+Parmi les matières étrangères observables dans des aliments, on compte notamment les **insectes**, **cheveux**, **fragments de métal**, **morceaux de plastique**, **copeaux de bois** et le **verre**.
+
+Une **matière étrangère** peut être dangereuse en raison de sa **dureté**, de sa **conformation acérée**, de sa **taill**e ou de sa **forme**. Elle peut causer des **lacérations**, des **perforations** ou autres blessures ou aussi présenter un danger d'**étouffement**. 
+
+La vente d'aliments contaminés contenant des matières étrangères dangereuses peut constituer une infraction.
+
+Toute taille de substance étrangère dangereuse peut être considérée comme un risque. En plus de la **taille**, le risque associé à des matières étrangères est évalué en fonction de la **forme**, de la **dureté**, du **type de matière**, de la **source**, des groupes de **consommateurs cibles**, etc.
+
+Les matières étrangères peuvent être réparties en deux catégories :
+
+-	les matières étrangères ou corps étrangers **inévitables** et 
+
+-	les matières étrangères ou corps étrangers **évitables**.
+
+Les **matières étrangères inévitables** peuvent arriver dans les aliments en tant que sous-produit du système de transformation ou comme quelque chose d'inhérent au produit lui-même. 
+
+Les éléments tels que des morceaux de tiges, de feuilles, d’épis sont des exemples courants de corps étrangers inévitables.
+
+Les **matières étrangères évitables** sont généralement moins tolérées que les inévitables parce qu'elles sont évitables. Elles englobent des matières étrangères qui ne devraient pas être présentes lorsque de bonnes pratiques de fabrication (**BPF**) sont suivies. 
+
+Les matières étrangères évitables peuvent prendre différentes formes : des fragments de verre, des morceaux de plastique, des morceaux de caoutchouc, bijoux, barbules de plumes, des débris d'animaux ou de tout autre matériel non lié au produit ou à sa transformation.
+

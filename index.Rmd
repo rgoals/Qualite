@@ -1,0 +1,107 @@
+--- 
+title: "Qualité des aliments du bétail"
+author: "Zonlehoua Coulibali, Agronome, PhD."
+date: "28/10/2020" #"`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+#bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Notes du cours de Qualité des aliments du bétail, format gitbook."
+---
+
+# Objectifs du cours
+
+Ce cours a pour objectifs :
+
+-	d’attirer l’attention des apprenants et futurs professionnels du secteur sur les risques potentiels liés à une mauvaise sélection des matières premières pour composer les rations pour animaux d’élevage ; 
+
+-	de présenter les mesures de prévention mises en place par les institutions ivoiriennes pour prévenir la production ou l’importation de matières premières à risque pour les animaux d’élevage et pour la santé publique. 
+
+En tant que futurs praticiens, les étudiants doivent connaitre l’existence de ces textes régissant les professions des productions animales en relation avec l’alimentation animale, en s’y référer sur le terrain.
+
+Au sortir de ce cours, vous devriez (entre autres) :
+
+- Connaître les dangers préoccupants courants selon les catégories d’ingrédients et d’aliments ;
+
+- Connaître les voies de contamination des matières premières et aliments pour animaux ;
+
+- Savoir catégoriser ces dangers selon les caractéristiques de l’animal (espèce, stade physiologique, type d’élevage, type de production attendu, etc.) ;
+
+- Savoir composer un régime alimentaire équilibré et saint pour animaux d’élevage ;
+
+- Connaitre le cadre législatif et règlementaire relatif à l’alimentation animale en Côte d’Ivoire et les services publiques auxquels se référer en cas de besoin.
+
+« _Vous avez probablement déjà constaté que les déchets et restes alimentaires en bon état ou en décomposition sont souvent distribués aux animaux comme moyen de revalorisation_ ».
+
+« _Lorsque le bétail destiné à l'alimentation humaine est frappé par une épidémie, les inquiétudes du public sur la sécurité sanitaire des produits se font plus vives (grippe aviaire, ESB, peste porcine, etc.)_ ».
+
+Il est essentiel pour la santé animale, pour l’environnement et pour la sécurité des aliments d’origine animale que les aliments pour animaux ne présentent aucun danger. Les exemples illustrant le lien étroit existant entre la sécurité des aliments pour animaux et les **denrées animales et d'origine animale (DAOA)** destinés à l'alimentation humaine sont légion.
+
+> Par exemple, dans l'UE, en 2001, l’utilisation des **farines de viande et d’os de mammifères (FVOM)** a été interdite dans tous les aliments destinés à l’alimentation des animaux d’élevage car un lien a été établi entre ces farines et la propagation de l’**encéphalopathie spongiforme bovine (ESB)** chez les bovins ainsi qu'une relation entre la viande d'animaux malades de l’**ESB** et la transmission d'une variante de la **maladie de Creutzfeldt-Jakob (vMCJ)** chez l’homme.
+
+Les aliments avec lesquels les éleveurs nourrissent les animaux sont sélectionnés en fonction d'une série de critères, notamment :
+
+-	l’espèce,
+
+- l’âge des animaux, 
+
+-	le type de denrée produit (viande, lait ou œufs), 
+
+-	le prix, la disponibilité et la valeur nutritive
+
+-	ainsi que des facteurs géographiques tels que la qualité du sol et le climat. 
+
+Il existe différents types d'aliments pour animaux, à savoir :
+
+-	les **fourrages** (foin, paille, herbe d'ensilage, oléagineux et céréales),
+
+-	et les **produits manufacturés** simples ou composés combinant des matières qui peuvent contenir des additifs.
+
+Ces aliments pour animaux peuvent être un vecteur important d’introduction des risques dans la chaîne alimentaire humaine. En d’autres termes, ces aliments et leurs ingrédients peuvent servir de voie d'entrée pour les dangers associés aux **produits animaux et d’origine animale** destinés à la consommation humaine. Il est donc indispensable d’évaluer leur salubrité avant d’en nourrir les animaux. 
+
+L’évaluation de la sécurité sanitaire a souvent de multiples facettes. Elle porte habituellement à la fois sur la sécurité des animaux en tant que **consommateurs primaires ou directs** des aliments, et sur la sécurité de l’homme en tant que **consommateur indirect** des résidus pouvant être contenus dans les produits animaux et d’origine animale (viande, lait, poisson, œufs, produits charcutiers et manufacturés). Dans certains cas, l’évaluation concerne les risques auxquels sont confrontés les personnes manipulant ou mélangeant les aliments et les risques pour l’environnement ([ACIA, 2014a](https://www.inspection.gc.ca/sante-des-animaux/aliments-du-betail/consultations/identification-des-dangers-des-aliments-du-betail/fra/1399399411768/1399399412471#a31)).
+
+« **La notion de danger pour la salubrité des aliments renvoie à tout agent ayant le potentiel de causer des effets indésirables sur la santé des consommateurs** ». 
+
+« **Il y a danger pour la salubrité des aliments lorsqu'un aliment est exposé à des agents dangereux qui entraînent sa contamination** ».
+
+Les dangers pour la salubrité des aliments peuvent être **biologiques**, **chimiques**, **physiques**, **allergènes**, **nutritionnels** ou de par leur nature, liés à la **biotechnologie**.
+
+La présence dans les aliments pour animaux et dans leurs ingrédients de substances indésirables [dangers] telles que :
+
+-	les contaminants industriels et environnementaux, 
+
+-	les pesticides, 
+
+-	les radionucléides, 
+
+-	les polluants organiques persistants, 
+
+-	les agents pathogènes, 
+
+-	et les toxines dont les mycotoxines 
+
+devrait être décelée, contrôlée et réduite au minimum. 
+
+Les dangers pour la santé des consommateurs présentés par chaque substance indésirable devraient être évalués et cette évaluation pourrait conduire à la « **fixation de limites maximales concernant la présence de ces substances dans les aliments pour animaux et leurs ingrédients, voire à l'interdiction de certaines substances dans l'alimentation animale** ».
+
+
+**TABLE DES MATIÈRES**
+
+[**Chapitre 1.**](https://rgoals.github.io/Qualite/index.html) Objectifs et contexte du cours
+
+[**Chapitre 2.**](https://rgoals.github.io/Qualite.html) L'aliment du bétail de qualité
+
+[**Chapitre 3.**](https://rgoals.github.io/Qualite/definitions.html) Définitions
+
+[**Chapitre 4.**](https://rgoals.github.io/Qualite/voies.html) Les voies de contamination des aliments
+
+[**Chapitre 5.**](https://rgoals.github.io/Qualite/dangers.html) Les dangers préoccupants courants selon la catégorie d'ingrédients et d'aliments
+
+[**Chapitre 6.**](https://rgoals.github.io/Qualite/effets.html) Effets des contaminants sur la salubrité des aliments pour animaux et risques de santé publique
+
+[**Chapitre 7.**](https://rgoals.github.io/Qualite/mesures.html) Mesures de préservation de la qualité des aliments pour animaux, et de protection des consommateurs
+
+[**Chapitre 8.**](https://rgoals.github.io/Qualite/references.html) Références bibliographiques
+

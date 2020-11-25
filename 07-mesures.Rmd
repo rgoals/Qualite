@@ -1,0 +1,575 @@
+# Mesures de préservation de la qualité des aliments pour animaux, et de protection des consommateurs – (à titre informatif)
+
+---
+**Section tirée des Actes de l’atelier organisé par la Direction de la Nutrition Animale et de l’Agrostologie (DNAA) du Ministère des Ressources Animales et halieutique, décembre 2007.**
+
+La protection des consommateurs passe par l’assurance de la qualité des denrées alimentaires d’origine animale (DAOA) saines. L’importance de la qualité des aliments pour animaux dans cette optique n’est plus à démontrer. Chaque structure opérant dans le domaine de l’alimentation animale devrait : 
+
+-	adopter des **bonnes pratiques** de fabrication BPF,
+
+-	mettre en place un **système de traçabilité** des aliments,
+
+-	**inspecter** et se faire inspecter par les services de contrôle sanitaire officiels,
+
+-	**se conformer** à la législation et la règlementation en vigueur.
+
+Dans chaque pays au monde il existe des mesures de protection des consommateurs des produits à risque pour sauvegarder la santé publique. Ces mesures passent par :
+
+-	l’engagement ou le rôle des services de l’Etat et des prestataires privés (services conseils) dans l’accompagnement des acteurs de la production dans les bonnes pratiques de production, 
+
+-	les services de l’Etat à travers la proposition de textes législatifs et réglementaires (_lois, décrets, arrêtés, circulaires_) pour encadrer le secteur d’activité.
+
+En côte d’ivoire et dans le domaine des productions animales et halieutiques, ce rôle a été dévolu aux **ministères à charge de l’agriculture** qui a subi de nombreuses mutations selon les changements de régimes. Un ministère chargé des productions animales et halieutiques (**MIRAH**) est actuellement en place.
+
+##	Textes législatifs et règlementaires en vigueur
+
+En matière de sécurité sanitaire des aliments pour animaux, la Côte d’Ivoire dispose de deux textes législatifs.
+
+-	Le premier de portée beaucoup plus générale, est la **loi n°63-301 du 26 juin 1963** relative à la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles.
+
+-	Le deuxième est la **loi n° 96-561 du 25 juillet 1996** relative à la pharmacie vétérinaire qui traite, en même temps que les produits vétérinaires, le cas des additifs alimentaires.
+
+En application de la loi n° 63-301 du 26 juin 1963, deux décrets ont été signés. Ce sont : 
+
+-	le **décret n° 73-437 du 1er septembre 1973** relatif à la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles, et 
+
+-	le **décret n° 83-744 du 28 juillet 1983**, relatif à la répression des fraudes en ce qui concerne les produits destinés à l’alimentation animale. 
+
+Des arrêtés d’application de ces décrets ont également été élaborés et adoptés. Ce sont :
+
+**Pour le décret n°73-437 du 1er septembre 1973**,
+
+-	l’**arrêté interministériel n°09/MC/MEF/MSP/MDR/MTPCPT du 07 mars 1986** concernant la quantité minimum de chaque échantillon à prélever et les précautions pour le transport et la conservation des produits destinés aux analyses physico-chimiques.
+
+**Pour le décret n°83-744 du 28 juillet 1983**,
+
+-	l’**arrêté n°038 MDR du 30 mai 1984** portant modalités d’octroi d’une autorisation de fabrication de produits destinés à l’alimentation animale ;
+
+-	l’**arrêté interministériel n°048 MDR/MC du 09 juillet 1984** portant déclaration obligatoire des constituants analytiques d’aliments simples pour animaux ;
+
+-	l’**arrêté interministériel n°134/MINAGRI/MPA/MC du 16 décembre 1988** portant établissement et collecte de données statistiques concernant la filière maïs ;
+
+-	l’**arrêté n°372/MINAGRA du 29 août 1994** fixant les tolérances admissibles dans la composition des aliments destinés aux animaux ;
+
+-	l’**arrêté n° 012/MINAGRA du 30 janvier 1996** modifiant l’arrêté n°06/MPA du 26 octobre 1990 relatif à l’agrément des opérateurs économiques intervenant dans la fabrication, l’importation et la commercialisation de produits destinés à l’alimentation animale ;
+
+-	l’**arrêté n°102/MINAGRA/MC du 22 mai 1996** fixant les teneurs maximales en substances et produits toxiques des aliments des animaux.
+
+De même, en application de la loi n°96-561 du 25 juillet 1996 relative à la pharmacie vétérinaire, un de ses décrets d’application et une circulaire ont intéressé particulièrement cette revue. Il s’agit :
+
+-	du **décret n°2001-487 du 09 août 2001** portant application de ladite loi et 
+
+-	de la **circulaire n°840/MIPARH du 12 sept 2005** portant application de la même loi et de son décret d’application en ce qui concerne ;
+
+>>
+-	d’une part, les agréments des établissements de fabrication, d’importation et de distribution des produits vétérinaires et 
+-	d’autre part, l’inspection vétérinaire desdits établissements et l’inspection de conformité des importations de produits vétérinaires.
+
+Ces textes relatifs à la **pharmacie vétérinaire** ont été analysés (_dans ce document_) dans le cadre de l’alimentation animale parce qu’ils traitent le cas des **additifs alimentaires**.
+
+Un système d’exonération de taxes et droits de douanes sur les produits importés et destinés à l’alimentation animale a aussi été mis en place afin de faciliter l’accès des consommateurs aux produits animaux (**cf. annexe fiscale à la loi de finance de 1982 et 1983, Arrêté n°330/MEF du 30 septembre 2004**).
+
+Ces textes sont disponibles au journal officiel et sont d’accès libre. Pour s’en procurer il suffit d’approcher les services à charge et d’en faire la demande.
+
+##	Forces du cadre législatif et réglementaire existant 
+
+Ce chapitre présente les textes de loi et les textes réglementaires dans l’ordre chronologique de leur élaboration. Chacune des lois est analysée et par la suite les décrets et arrêtés d’application relatifs à cette loi. L’étude a concerné les deux textes de loi cités ci-haut : la **loi n° 63-301 du 26 juin 1963** et la **loi n° 96-561 du 25 juillet 1996**.
+
+###	Loi n° 63-301 du 26 juin 1963 et ses décrets d’application
+
+**Loi n°63-301 du 26 juin 1963 relative à la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles**
+
+Cette loi définit les conditions de détention, de manipulation et de mise en vente des denrées alimentaires et des produits agricoles de manière frauduleuse ainsi que les sanctions à l’encontre de tout contrevenant. 
+
+La loi précise en substance que l’information sur la nature, les qualités substantielles, la composition et la teneur en principes utiles de toute marchandise (_denrées alimentaires et produits agricoles_) objet de transactions et servant à l’alimentation humaine et animale, doit être certifiée et vérifiable.
+
+Elle exige par ailleurs, que les emballages, les étiquettes, les noms, les signes et les marquages des produits (_qu’ils soient naturels ou fabriqués, détenus ou transportés en vue de la vente, mis en vente ou vendus en Côte d’Ivoire_) doivent désigner la fabrique d’origine ou leur provenance.
+
+**Décret n° 73-437 du 1er septembre 1973 portant application de la loi n° 63-301 du 26 juin 1963 et ses arrêtés d’application**
+
+Ce décret centralise le service de la recherche et de la constatation des fraudes au Ministère de l’économie et des finances précisément à la Direction des Affaires Economiques et des Relations Economiques Extérieures à travers sa Sous-Direction des Prix, des Instruments de mesure et des Fraudes.
+
+Ce texte prévoit la détermination des conditions matérielles des prélèvements que des arrêtés ministériels doivent préciser ainsi que l’organisation des laboratoires et la définition des méthodes d’analyse à imposer à ces établissements. 
+
+Au titre des arrêtés prévus, seul l’**arrêté interministériel n° 09/MC/MEF/MSP/ MDR/MTPCPT du 07 mars 1986** concernant la quantité minimum de chaque échantillon à prélever et les précautions pour le transport et la conservation des produits destinés à l’analyse physico-chimique, intéresse directement le secteur de l’alimentation animale.
+
+Cet arrêté fixe de façon spécifique respectivement en ses articles 14 et 15, aux fins des analyses à réaliser dans le cadre du contrôle :
+
+-	la liste des additifs et auxiliaires technologiques et les quantités de chaque matière à prélever ;
+
+-	la liste des produits pour l’alimentation des animaux et les quantités de chaque matière à prélever.
+
+Par ailleurs, cet arrêté précise en son article 24, les modalités de transport et de conservation des échantillons. Il indique aussi les produits à utiliser pour préserver la composition microbiologique des échantillons au cours du processus d’analyse. Ce sont entre autres, la glace pour les produits périssables, la neige carbonique pour les produits congelés et les crèmes glacées, et deux conservateurs chimiques : le dichromate de potassium et l’acide salicylique.
+
+**Décret n° 83-744 du 28 juillet 1983 portant application de la loi n° 63-301 du 26 juin 1963 sur la répression des fraudes en ce qui concerne les produits destinés à l’alimentation animale et ses arrêtés d’application**
+
+Ce décret définit les champs d’application de la **loi n° 63-301 du 26 juin 1963**, prévoit des arrêtés d’application de ladite loi et définit les règles de commercialisation et d’étiquetage des produits destinés à l’alimentation animale.
+
+Les champs d’application définis sont : 
+
+-	les aliments des animaux, 
+
+-	les aliments simples, 
+
+-	les aliments composés, 
+
+-	les aliments composés normalisés, 
+
+-	les constituants analytiques, 
+
+-	les additifs, 
+
+-	les prémélanges, 
+
+-	les aliments complets, 
+
+-	les aliments complémentaires, 
+
+-	les aliments mélassés, 
+
+-	les aliments minéraux, 
+
+-	la ration journalière et 
+
+-	les animaux.
+
+Ce texte a l’avantage d’énoncer les arrêtés d’application devant traiter des critères et indicateurs assez sensibles dans l’amélioration de l’alimentation animale. Ce sont :
+
+-	les critères microbiologiques, parasitaires et les teneurs en principes nuisibles et substances toxiques, qui rendent les produits impropres à l’alimentation des animaux ;
+
+-	les dénominations, la nature et le mode d’identification des aliments pour animaux, des additifs et prémélanges ;
+
+-	la liste des aliments simples et des additifs autorisés et la teneur en additifs ;
+
+-	les écarts admissibles entre les teneurs déclarées en constituants analytiques et celles détectées après les analyses de contrôle ;
+
+-	les délais d’attente après l’administration de certains additifs ou substances toxiques susceptibles de porter préjudice à la qualité des produits obtenus à partir des animaux domestiques seront aussi indiqués.
+
+Le décret précise par ailleurs le mode d’administration des additifs dans le cadre de la nutrition animale. Mais des arrêtés doivent fixer les exigences les concernant et limiter la distribution et l’utilisation.
+
+Au titre des règles de commercialisation et d’étiquetage, les conditions générales de présentation des produits ont été déterminées en réponse à l’exigence énoncée dans la **loi n° 63-301 du 26 juin 1963** sur les emballages, les étiquettes, les noms, les signes et les marquages des produits. 
+
+Dès lors, la production d’aliments pour animaux est régie par une autorisation d’exercice tout comme l’importation et la commercialisation des matières premières et aliments composés.
+
+**L’arrêté n° 038 MDR du 30 mai 1984 portant modalités d’octroi d’une autorisation de fabrication de produits destinés à l’alimentation animale**
+
+Cet arrêté donne des indications sur les modalités de conception, d’installation et indique certains équipements que doit avoir tout fabricant d’additifs, de prémélanges ou d’aliments pour animaux. Ce texte précise que l’environnement général de la fabrique doit permettre de produire des aliments de qualité (_exemptes de corps étrangers, balances de précision, pas d’échanges de matières entre le matériel et les aliments_).
+
+Les locaux ne doivent pas être utilisés à d’autres fins que la production d’aliments et de prémélanges.
+
+Cet arrêté interdit la détention d’animaux sur les sites de production à part des animaux sains utilisés pour lutter contre les rongeurs. 
+
+Par ailleurs, le personnel doit subir un contrôle médical tous les ans, portant sur les maladies ou infections susceptibles de contaminer les aliments.
+
+**L’arrêté interministériel n° 048 MDR/MC du 09 juillet 1984 portant déclaration obligatoire des constituants analytiques d’aliments simples pour animaux**
+
+Prévu à l’article 12, alinéa c du **décret n° 83-744 du 28 juillet 1983** sur la répression des fraudes en ce qui concerne les produits destinés à l’alimentation animale, cet arrêté fixe la liste des aliments simples et de leurs constituants analytiques dont la teneur doit être déclarée lorsqu’elle dépasse 1%. Les constituants analytiques indiqués sont : 
+
+-	la matière protéique brute, 
+
+-	la matière grasse brute, 
+
+-	la matière cellulosique brute, 
+
+-	l’humidité, 
+
+-	la cendre brute, 
+
+-	le phosphore, 
+
+-	le sodium, 
+
+-	l’amidon, 
+
+-	le sucre et 
+
+-	la cendre insoluble.
+
+**L’arrêté interministériel n° 134/MINAGRI/MPA/MC du 16 décembre 1988 portant établissement et collecte de données statistiques concernant la filière maïs**
+
+-	Les fabricants d’aliments du bétail, 
+
+-	Les personnes ou entreprises travaillant dans la filière du maïs, 
+
+-	les exploitants d’entrepôts, de silos, d’usines de traitement et/ou de transformation du maïs,
+
+sont tenus de faire un état statistique mensuel des entrées, des sorties, des stocks, des traitements et de l’usinage, suivant le modèle établi par le Ministère de l’Agriculture. Cet état est adressé au Ministère de l’agriculture avec ampliation au Ministre de la production animale et au Ministre du commerce. 
+
+Ces différents opérateurs sont désormais soumis à des inspections et des contrôles de qualité. 
+**L’arrêté n° 372/MINAGRA du 29 août 1994 fixant les tolérances admissibles dans la composition des aliments destinés aux animaux**
+
+Etendu à l’ensemble des aliments pour animaux, cet arrêté fixe les écarts tolérés entre la teneur déclarée sur les étiquettes du fabricant et la teneur effective des différents constituants déterminée après l’analyse de contrôle en ses annexes I, II et III.
+
+**L’arrêté n° 012/MINAGRA du 30 janvier 1996 relatif à l’agrément des opérateurs économiques intervenant dans la fabrication, l’importation et la commercialisation de produits destinés à l’alimentation animale**
+
+Cet arrêté vient modifier et abroger l’arrêté n° 06/MPA du 26 octobre 1990 portant institution d’un agrément obligatoire pour les opérateurs économiques intervenant dans la fabrication, l’importation et la commercialisation de produits destinés à l’alimentation animale en indiquant, en son article 2, les opérateurs économiques concernés par cette mesure. Sont obligés de détenir cet agrément préalablement à l’exercice de leurs activités :
+
+-	les importateurs et commerçants de produits destinés à l’alimentation animale, 
+
+-	les fabricants et commerçants d’aliments du bétail, 
+
+-	les fabricants d’aliments du bétail pour l’autoconsommation et 
+
+-	les revendeurs d’aliments du bétail.
+
+La liste des documents à fournir pour l’obtention de cet agrément est reprise.
+
+Cet arrêté vient en outre, compléter l’arrêté interministériel n° 09/MC/MEF/ MSP/MDR/MTPCPT du 07 mars 1986 en précisant en ses annexes I et II, les constituants analytiques à déterminer par type d’aliment (simples et composés). 
+
+**L’arrêté n° 102/MINAGRA/MC du 22 mai 1996 fixant les teneurs maximales en substances et produits toxiques des aliments des animaux**
+
+Cet arrêté vient combler une des insuffisances de l’arrêté interministériel n° 048 MDR/MC du 09 juillet 1984 portant déclaration obligatoire des constituants analytiques d’aliments simples pour animaux. 
+
+Les substances et produits toxiques susceptibles d’être présents dans les aliments pour animaux et les teneurs maximales tolérées sont donnés en annexe. 
+
+>> Il s’agit de l’Arsenic, du Plomb, du Fluor, du Mercure, des Nitrites et du Cadmium. Ensuite de l’Aflatoxine B1, de l’Acide cyanhydrique, du Gossypol libre, de la théobromine, de l’Ergot de seigle, de l’Aldrine, du Camphechlore, du Chlordane, du D.D.T, de l’Endosulfan, de l’Endrine, de l’Heptachlore, de l’hexachlorobenzène et des isomères alpha, béta et gama de l’Hexachlorocyclohexane.
+
+###	Loi n° 96-561 du 25 juillet 1996 et ses décrets d’application
+
+**La loi n° 96-561 du 25 juillet 1996 relative à la pharmacie vétérinaire**
+
+Cette loi définit le médicament vétérinaire et les conditions d’importation et de mise sur le marché de ces produits selon qu’il s’agisse de la vente en gros ou au détail.
+
+Les additifs à propriétés pharmacologiques, notamment les anticoccidiens, les antibiotiques et les facteurs de croissance sont définis comme des produits vétérinaires.
+
+Ce texte de loi traite aussi le cas des aliments supplémentés contenant certains additifs à faibles concentrations, sans qu’il soit fait mention de propriétés préventives ou curatives.
+
+La loi prévoit des textes règlementaires devant définir la composition, la destination, le mode d’utilisation et le taux maximum de concentration de ces substances dans les aliments.
+
+Cette loi institut également des inspections pour les opérateurs économiques de la filière et définit les dispositions pénales et les mesures administratives à appliquer en cas d’infractions.  
+
+**Décret n° 2001-487 du 09 août 2001 portant modalités d’application de la loi n° 96-561 du 25 juillet 1996**
+
+Ce décret institut trois dispositions règlementaires selon lesquelles :
+
+-	tout établissement de fabrication, d’importation et de distribution de **produits vétérinaires** doit être agréé ;
+
+-	les activités menées dans ces établissements doivent faire l’objet d’une surveillance administrative et technique ;
+
+-	toute instruction de demande fait l’objet de paiement d’un droit fixe à la charge du pétitionnaire.
+
+**Circulaire n° 840/MIPARH du 12 septembre 2005 portant  application de la loi n° 96-561 du 25 juillet 1996 et du décret n° 2001-487 du 9 août 2001**
+
+Cette circulaire précise les établissements concernés par les dispositions du **décret n° 2001-487 du 9 août 2001**.
+
+La circulaire donne l’autorité à la DSVQ (_Direction des Services Vétérinaires et de la Qualité_) pour délivrer les agréments qui font l’objet d’un dossier à fournir par le requérant. 
+
+L’agrément donne lieu de facto à l’inspection vétérinaire en vue de l’obtention de l’attestation d’inspection vétérinaire. Les sanctions à l’encontre des contrevenants sont aussi précisées.
+
+##	Critique du cadre législatif et réglementaire existant
+
+Les textes règlementaires sus énoncés ont été recensés et exploités pour dresser une vision du cadre législatif et réglementaire du secteur de l’alimentation animale en Côte d’Ivoire. La présentation dans l’ordre chronologique permet de mieux apprécier l’évolution au fil des années.
+
+Bien que présentant de nombreux aspects positifs, de nombreuses faiblesses apparaissent aujourd’hui du point de vue de leur application sur le terrain ; faiblesses que découvrent les services de la **DNAA** à l’occasion des inspections réalisées en vue d’octroyer les agréments des opérateurs économiques de la filière.
+
+Ces insuffisances touchent aussi bien les textes de loi que les textes règlementaires se rapportant directement ou indirectement au secteur de l’alimentation animale.
+
+Jusqu’à ce jour, il n’existe pas de texte de loi spécifique à la filière des aliments pour animaux en Côte d’Ivoire. La seule loi qui par un de ses décrets d’application couvre directement la filière est la **loi n° 63-301 du 26 juin 1963** relative à la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles. Mais cette loi est de portée générale. **Cependant, de mon point de vue, l’absence de loi n’est en rien une excuse pour les opérateurs face aux risques de santé publique résultant de la fraude dans la filière**.
+
+###	Insuffisance relative à la loi n° 63-301 du 26 juin 1963
+
+Bien que ce texte de loi contraigne tout détenteur de matières objets de transactions commerciales à se conformer à un ensemble de décrets et d’arrêtés d’application prévus à cet effet, il ne désigne pas de façon spécifique, les matières premières entrant dans la production des aliments du bétail. 
+
+###	Insuffisances relatives aux décrets portant application de la loi n° 63-301 du 26 juin 1963
+
+Différents décrets ont été signés selon les différents secteurs d’activités couverts par la **loi n° 63-301 du 26 juin 1963** dont
+
+-	le **décret n° 73-437 du 1er septembre 1973** portant application de ladite loi et
+
+-	le **décret n° 83-744 du 28 juillet 1983** relatif aux produits destinés à l’alimentation animale.
+
+Quelques insuffisances ont été décelées à travers le **décret n° 83-744 du 28 juillet 1983** et ses arrêtés d’application.
+
+Ce décret a prévu un ensemble d’arrêtés d’application qui, à ce jour, ont été pour l’essentiel, partiellement élaborés. Des critères aussi importants que ceux cités ci-dessous n’ont jusque-là pas été réglementés. Ce sont :
+
+-	les critères microbiologiques et parasitaires, qui rendent les produits impropres à l’alimentation des animaux ;
+
+-	le mode d’identification des additifs et des prémélanges ;
+
+-	la liste des aliments simples et des additifs autorisés ;
+
+-	les teneurs seuils en aliments simples et en additifs ;
+
+-	les délais d’attente après l’administration de certains additifs ou substances toxiques susceptibles de porter préjudice à la qualité des produits obtenus à partir des animaux domestiques ;
+
+-	la distribution et l’utilisation des additifs alimentaires.
+
+L’alimentation des ruminants domestiques n’est prise en compte par aucune législation ou réglementation en vigueur. Les conditions de production et d’exploitation des fourrages naturels ou cultivés auraient pu être prévues. 
+
+Par ailleurs, les aliments composés normalisés ont été définis dans le cadre des champs d’application de la **loi n° 63-301 du 26 juin 1963**, mais ne font l’objet d’aucune réglementation. C’est une insuffisance de taille en ce sens que la composition bromatologique et la qualité sanitaire de l’aliment doivent se situer autour de valeurs fixes ou des intervalles de valeurs, par espèces de bétail et à âge-type. Ceci permettrait de conditionner les provendiers pour la satisfaction des besoins réels des animaux d’élevage et partant pour la protection des éleveurs.
+
+De plus, c’est à partir des **normes** que les écarts admissibles de teneurs en constituants analytiques doivent être définis et non sur la base des teneurs déclarées par l’opérateur économique.
+
+Certains arrêtés prévus par ce décret ont cependant été signés mais dont l’analyse a révélé quelques insuffisances. Ce sont :
+
+-	l’**arrêté n° 038 MDR du 30 mai 1984** portant modalités d’octroi d’une autorisation de fabrication de produits destinés à l’alimentation animale ;
+
+-	l’**arrêté n°372/MINAGRA du 29 août 1994** fixant les tolérances admissibles dans la composition des aliments destinés aux animaux ;
+
+-	l’**arrêté n° 012/MINAGRA du 30 janvier 1996** modifiant l’arrêté n° 06/MPA du 26 octobre 1990 relatif à l’agrément des opérateurs économiques intervenant dans la fabrication, l’importation et la commercialisation de produits destinés à l’alimentation animale ;
+
+-	l’**arrêté n° 102/MINAGRA/MC du 22 mai 1996** fixant les teneurs maximales en substances et produits toxiques des aliments des animaux.
+
+Les insuffisances révélées sont énumérées, en ce qui suit, pour chacun des arrêtés.
+
+###	Insuffisances relatives aux arrêtés d’application du décret n° 83-744 du 28 juillet 1983
+
+**Les arrêtés relatifs à l’autorisation d’exercice des activités de fabrication, d’importation et de commercialisation des produits destinés à l’alimentation animale**
+
+Il existe deux arrêtés qui règlementent les fonctions de production, d’importation et de commercialisation des produits destinés à l’alimentation animale. Ce sont : 
+
+-	l’**arrêté n° 038 MDR du 30 mai 1984** et
+
+-	l’**arrêté n° 012/MINAGRA du 30 janvier 1996** modifiant l’arrêté n° 06/MPA du 26 octobre 1990.
+
+Ces arrêtés, pris pour règlementer les activités relatives à la production, l’importation et la commercialisation des matières premières et aliments pour animaux, ne définissent pas les critères opérationnels sur lesquels l’autorité compétente (_actuellement la DNAA_) doit veiller pour permettre aux contrôles officiels d’être plus efficaces. Ils restent indicatifs quant aux modalités de conception des locaux de production et de stockage, et à l’ensemble des équipements des fabriques d’aliments pour animaux sans énumérer de façon exacte, des normes à appliquer.
+
+L’**arrêté n° 012/MINAGRA du 30 janvier 1996** indique en son article premier que « les opérateurs économiques intervenants dans la fabrication, l’importation et la commercialisation des produits destinés à l’alimentation animale, doivent préalablement à l’exercice de leurs activités, être agréés par le Ministre  chargé des ressources animales ». Les agréments délivrés précisent l’activité couverte. Mais sur le terrain, les agréments octroyés depuis la signature de cet arrêté, confèrent à l’ensemble des opérateurs agréés 
+
+-	(aussi bien les importateurs et commerçants de produits destinés à l’alimentation animale,
+
+-	les fabricants et commerçants d’aliments de bétail, 
+
+-	les fabricants d’aliments de bétail pour autoconsommation 
+
+-	que les revendeurs d’aliments de bétail),
+
+... la qualité de fabricants, d’importateurs et de commerçants de produits destinés à l’alimentation animale.
+
+Avec des matières premières d’origines diverses, stockées au bon vouloir de l’opérateur et dont les teneurs en principes utiles et en substances toxiques ne sont pas suivies, les formulations se font généralement sur la base des quantités de matières communiquées par le voisin ou l’ami.
+
+De plus, toute possibilité d’extension de l’activité par un opérateur donné doit faire l’objet d’un agrément. Mais sur le terrain, le dépositaire par exemple multiplie le nombre de ses dépôts de vente selon ses possibilités avec un seul agrément et le fabricant d’aliments à la ferme fini par vendre son aliment sans agrément.
+
+Par ailleurs, il a été constaté que l’élevage de certaines espèces est rendu difficile à cause des ruptures courantes de la production de leurs aliments (le lapin par exemple). Les provendiers privilégient les productions relativement à leur capacité de déstockage. De plus, il existe des provendiers fictifs et inconstants, qui profitent des situations de marché favorable mais qui abandonnent les éleveurs dès les premières difficultés en stoppant leurs productions. **[Logique !]**.
+
+Toutes ces confusions sont probablement favorisées par le manque de précisions de ce texte règlementaire.
+
+L’autorité compétente devrait fixer des critères de qualité et des normes légales précises devant guider au choix des sites de production et des équipements et non s’attendre à réprimer les opérateurs économiques qui doivent adapter leurs installations et équipements aux conditions des textes en vigueur.
+
+Les exigences d’hygiène relatives aux locaux et aux matériels des établissements, de même que celles relatives aux produits manipulés et à la gestion du personnel ne sont aussi pas règlementées.
+
+**L’arrêté n° 102/MINAGRA/MC du 22 mai 1996 fixant les teneurs maximales en substances et produits toxiques des aliments des animaux**
+
+Cet arrêté ne signale pas le contrôle des résidus de pesticides et des mycotoxines autres que les aflatoxines, susceptibles de constituer des sources de contamination des aliments lorsque les teneurs des aliments simples en ces éléments dépassent les limites maximales conseillées.
+
+###	Insuffisances relatives aux textes réglementaires autres que ceux prévus par le décret n° 83-744 du 28 juillet 1983
+
+Des textes règlementaires non prévus par ce décret ont aussi été élaborés. Ce sont :
+
+**L’arrêté interministériel n°048 MDR/MC du 09 juillet 1984 portant déclaration obligatoire des constituants analytiques d’aliments simples pour animaux**
+
+Ce texte a limité son champ d’application seulement aux aliments simples et leurs constituants analytiques dont la teneur dépasse 1%, négligeant ainsi les métaux lourds et les autres produits toxiques comme les mycotoxines qui, même en très faibles proportions dans l’aliment (_en ppm_), constituent un danger pour l’animal voire pour l’homme.
+
+Une ouverture des champs d’application sur d’éventuelles sources de matières premières provenant d’organismes génétiquement modifiés aurait dû être envisagée. Quand bien même les débats restent contradictoires sur l’importance et les inconvénients liés à la consommation d’aliments OGM, il faille baliser ce domaine dont les contours sont encore méconnus.
+
+**L’arrêté interministériel n° 134/ MINAGRI/MPA/MC du 16 décembre 1988 portant établissement de collecte de données statistiques concernant la filière maïs**
+
+Cet arrêté exige un suivi des flux uniquement au niveau du maïs qui malheureusement, n’est pas la seule matière première entrant dans la fabrication des provendes. Les données statistiques doivent pouvoir être collectées autant pour les autres céréales, les tourteaux, les coquillages, les farines animales que pour les issues de meunerie.
+
+Par ailleurs, bien que ce texte soit en vigueur, il n’est pas réellement appliqué du moment où les opérateurs de la filière même s’ils déclarent leurs productions, ne sont pas suivis ou ne subissent pas des contrôles de routine en la matière. Les données statistiques irrégulièrement transmises par ces opérateurs ne facilitent pas la collecte des données demandées au niveau national.
+
+###	Insuffisances relatives à la loi n° 96-561 du 25 juillet 1996 relative à la pharmacie vétérinaires et ses textes règlementaires
+
+La **loi n° 96-561 du 25 juillet 1996** a prévu un ensemble de textes devant définir la composition, la destination, le mode d’utilisation et le taux maximum de concentration des additifs dans les aliments pour animaux. 
+
+De tous ces textes prévus, seul le mode d’utilisation des additifs a été ébauché et ce, dans un texte antérieur, le **décret n° 83-744 du 28 juillet 1983** portant application de la **loi n° 63-301 du 26 juin 1963**. Ainsi, les additifs alimentaires ne peuvent être administrés dans le cadre de la nutrition animale d’une autre manière que dans l’aliment.
+
+Les additifs alimentaires échappent donc jusqu’à ce jour à la législation et la réglementation ivoiriennes.
+
+Il existe par ailleurs, une confusion possible pour la nouvelle direction en charge de la nutrition animale et de l’agrostologie avec les additifs alimentaires que ce texte de loi classe parmi les médicaments vétérinaires. De ce point de vue, les inspections et les contrôles sanitaires relatifs à ces substances se trouvent être à la fois à la charge de la Direction des Services Vétérinaires et de la DNAA. Sachant qu’ils ne sont administrés que incorporés dans l’aliment, une révision de ce chapitre s’avère nécessaire pour éviter d’attribuer à deux différentes directions la même opération contre le désagrément des opérateurs économiques.
+
+D’une manière générale, en plus des insuffisances liées aux contenus des textes législatifs et règlementaires existants, ils ne prennent pas en compte :
+
+-	les autocontrôles de qualité obligatoires dans les établissements producteurs et manipulateurs d’aliments pour animaux ;
+
+-	la traçabilité des aliments pour animaux à toutes les étapes depuis la production des aliments simples jusqu’à la transformation et la distribution comme élément fondamental pour garantir la sécurité alimentaire ;
+
+-	la responsabilité juridique primaire des opérateurs économiques de la filière en vue d’une meilleure sécurité des produits finis ;
+
+-	les critères opérationnels précis sur lesquels doit veiller l’autorité compétente pour permettre des contrôles officiels plus efficaces ;
+
+-	les dangers éventuels d’origine biotechnologique liés à des probables incorporations de produits OGM dans les formulations d’aliments ;
+
+-	les procédures d’importation des matières premières provendières et des additifs alimentaires.
+
+Par ailleurs, il a fallu attendre 10 ans après l’adoption de la loi depuis **1963** c’est-à-dire **1973**, pour signer son décret de publication et 20 ans après (**1983**) pour traiter du cas particulier au secteur de l’alimentation animale. Jusqu’à ce jour, certains arrêtés d’application attendent d’être élaborés au moment où la filière est en proie à une expansion fulgurante avec un niveau d’anarchie grandissant. Le secteur de l’alimentation animale n’a pas jusqu’à ce jour été pris en compte par l’organisme national de normalisation.
+
+##	Propositions de voies d’amélioration
+
+Ces propositions visent
+
+-	à améliorer le cadre institutionnel et juridique du secteur de l’alimentation animale, 
+
+-	à assurer une meilleure organisation du secteur,
+
+-	à assurer un niveau élevé de protection des consommateurs 
+
+>>
+par la sécurité des aliments pour animaux et des denrées alimentaires qui en sont issues.
+
+###	Cadre institutionnel
+
+Il est nécessaire de créer une plateforme d’échanges entre les Ministères ou Institutions et les opérateurs intervenant dans le domaine de l’alimentation animale. 
+
+Cette plateforme aura pour missions :
+
+-	d’appuyer les actions de la DNAA, surtout en période de crise ;
+
+-	et de réfléchir sur les problèmes transversaux liés à l’alimentation animale afin de garantir la qualité des aliments pour animaux et protéger les consommateurs.
+
+###	Principes généraux et prescriptions générales de ce cadre juridique
+
+La santé du public doit être l’enjeu de base en visant l’utilisation d’aliments pour animaux qui soient sûrs et de bonne qualité. 
+
+Ce qui nécessite l’élaboration d’une loi ou d’une ordonnance spécifique au secteur de l’alimentation animale. Cet instrument juridique de portée générale devra prendre en compte :
+
+-	les règles générales en matière d'hygiène des aliments pour animaux ; 
+
+-	les conditions et modalités concernant l'enregistrement et l'agrément des établissements ;
+
+-	les conditions et modalités assurant la traçabilité des aliments pour animaux.
+
+La loi ou l’ordonnance à mettre en place s'appliquera :
+
+-	aux activités des exploitants du secteur de l'alimentation animale à tous les stades de leur intervention, depuis la production primaire d'aliments pour animaux jusqu'à leur mise sur le marché ;
+
+-	à l'alimentation des animaux producteurs de denrées alimentaires ;
+
+-	à l'alimentation des animaux de compagnie ;
+
+-	aux importations et aux exportations d'aliments pour animaux.
+
+Elle devra prendre en compte les obligations générales à l’endroit des exploitants du secteur de l'alimentation animale et des éleveurs. Ainsi : 
+
+-	Les exploitants du secteur de l'alimentation animale devront veiller à ce que toutes les étapes de la production, de la transformation et de la distribution placées sous leur contrôle soient mises en œuvre conformément à la future législation et aux bonnes pratiques. 
+
+-	Lors de l'alimentation d'animaux producteurs de denrées alimentaires, les éleveurs doivent prendre des mesures permettant de réduire les risques de contamination biologique, chimique et physique des aliments pour animaux.
+
+###	Conditions générales d’exercice des activités touchant directement ou indirectement le secteur de l’alimentation animale
+
+Tous les acteurs de la filière devront détenir une autorisation administrative leur permettant d’exercer leurs activités. Selon le type d’activités, il s’agira d’un agrément ou d’un permis. 
+L’**agrément** est une autorisation administrative particulière destinée à toute personne physique ou morale produisant et/ou commercialisant des aliments simples et/ou composés destinés à l’alimentation animale. Délivré annuellement, il est nominatif, non cessible, limitatif et donne droit au détenteur d’exercer des activités d’importation conformément aux procédures en vigueur.
+
+Devront être soumis à l’agrément :
+
+-	les producteurs d’aliments du bétail ;
+
+-	les importateurs d’aliments du bétail ;
+
+Il peut être défini différentes catégories d’agréments pour les producteurs d’aliments du bétail selon les espèces ou des grands groupes prédéfinis.
+
+Les détenteurs d’agréments pour la production de provendes sont tenus de produire des aliments conformément aux normes édictées par l’autorité compétente, et qui prennent en compte les besoins nutritionnels à chaque stade physiologique des animaux. 
+
+Les conditions d’utilisation des aliments retirés des élevages et des invendus stockés dans les dépôts de vente, devront être définies par voie réglementaire tout comme les conditions d’exercice des activités soumises à agrément. 
+
+Ces textes devront exiger, pour toute personne physique ou morale désirant exercer des activités soumises à agrément, de posséder des compétences techniques requises.  A défaut, elle doit avoir pour responsable technique ou responsable qualité un **vétérinaire** ou **zootechnicien**, ou s’assurer les services d’un conseil **vétérinaire** ou **zootechnicien**.
+
+Le **permis** est une autorisation administrative délivrée à toute personne physique pour exercer certaines activités relatives à l’alimentation animale. Il est nominatif, non cessible, limitatif et annuel. Il ne donne pas droit à l’importation des produits utilisés dans l’alimentation animale. 
+
+Sont concernés par le permis :
+
+-	les propriétaires de dépôts de vente d’aliments pour animaux ;
+
+-	les fabricants d’aliments à la ferme ;
+
+-	les fabricants artisanaux de farine de poisson ;
+
+-	les producteurs et/ou revendeurs d’intrants provendiers ;
+
+-	les transporteurs d’intrants provendiers et d’aliments pour animaux ;
+
+-	la coupe de fourrages naturels pour la vente.
+
+###	Procédures relatives à la traçabilité des aliments pour animaux
+
+L’ensemble des dispositions réglementaires à prendre doit impérativement tenir compte du principe de la traçabilité. Ce principe impose
+
+-	l’identification et l’immatriculation de tous les acteurs de la filière, 
+
+-	l’étiquetage des produits destinés à l’alimentation animale, 
+
+-	la mise en place d’un système de suivi des mouvements d’intrants provendiers et des aliments pour animaux. 
+
+####	Procédures d’identification et d’immatriculation des acteurs du secteur
+
+Une réglementation relative aux modalités d’identification des acteurs et du suivi des mouvements d’intrants provendiers  et des aliments pour animaux doit être élaborée. Celle-ci devrait imposer :
+
+-	l’identification par numéro unique de l’ensemble des acteurs de la filière et du matériel utilisé ;
+
+-	un document d’accompagnement lors du transport de chaque produit ;
+
+-	la notification de tous les mouvements d’intrants provendiers et des aliments pour animaux aux gestionnaires de la base de données nationales (_autorité compétente_) ; 
+
+-	la tenue d’un registre consignant différentes informations nécessaires à la mise à jour périodique de la base de données.
+
+Ce cadre réglementaire nouveau  devra permettre à l’Etat à disposer d’une base de données informatisées comportant le numéro unique de chaque opérateur de la filière avec le nom, l’adresse, l’activité, la localisation et les mouvements d’aliments et /ou d’intrants provendiers.
+
+####	Procédures d’installation des fabriques d’aliments pour animaux
+
+Les procédures relatives aux conditions d’installation des nouvelles fabriques d’aliments pour animaux seront définies par voie réglementaire. Celle-ci devra instituer une inspection préliminaire de l’autorité compétente en vue de s’assurer que :
+
+-	le site choisi est convenable ;
+
+-	les moyens matériels prévus sont conformes ;
+
+-	le process envisagé limite le nombre de points critiques.
+
+Cette inspection est différente de l’inspection préalable à l’obtention de l’agrément qui vérifie que les recommandations faites lors de la première inspection ont été prises en compte.
+
+####	Procédures d’importation des matières premières et autres intrants destinés à l’alimentation animale
+
+En vue de réduire les risques liés à l’introduction et à l’utilisation de produits prohibés destinés à l’alimentation animale, de nouvelles procédures d’importation des matières premières et autres intrants destinés à l’alimentation animale seront définies par voie réglementaire. 
+
+Cette nouvelle réglementation viendra améliorer les procédures actuellement en vigueur et renforcera la liaison fonctionnelle entre le Ministère de l’Economie et des Finances (services des douanes) et le Ministère de la Production Animale et des Ressources Halieutique, en ce qui concerne la lutte contre l’introduction et l’utilisation de Produits prohibés. 
+
+Cette procédure reposera sur la détention d’une autorisation préalable d’importation (API), délivrée par l’autorité compétente, avant toute importation de produits destinés à l’alimentation animale. 
+
+####	Les additifs et prémélanges destinés à l’alimentation animale
+
+Les conditions d’importation et de commercialisation des additifs et prémélanges destinés à l’alimentation animale seront définies par voie réglementaire. 
+
+Ces nouvelles dispositions réglementaires permettront de s’assurer que ces produits ne constituent pas un danger pour le consommateur.
+
+####	Le contrôle qualité
+
+Les dispositions pour le contrôle qualité des produits destinés à l’alimentation animale, devront être renforcées par :
+
+-	des prélèvements à effectuer à chaque stade de production et de stockage
+
+-	chaque échantillon mère pourrait être divisé en trois échantillons :
+
+>>
+- le premier mis sous scellé doit être conservé par l’opérateur, 
+- le second, mis sous scellé, conservé dans l’échantillothèque de référence officielle sera géré par l’autorité compétente (la DNAA),
+-	le troisième sera transmis aux laboratoires agréés pour les analyses.
+
+La liste des analyses à effectuer en fonction des produits devra être détaillée. Ces analyses porteront essentiellement sur les qualités nutritionnelle, toxicologique et microbiologique.
+
+Deux types de contrôle sont envisagés. Ce sont :
+
+-	le contrôle de routine qui concernera les prélèvements périodiques des produits finis, produits intermédiaires (_à différents stades du process_) et intrants provendiers ;
+
+-	et les contrôles inopinés.
+
+####	Normes de production et de conservation des fourrages (fourrage vert, foin et ensilage) et des semences fourragères
+
+Le futur texte réglementaire pourrait définir les normes de gestion des parcours et des pâturages artificiels qui préservent l’environnement. 
+
+De même, des textes réglementaires viendront :
+
+-	régir la transhumance (détermination de couloirs de migration) ;
+
+-	interdire la pâture en zone urbaine ;
+
+-	réglementer l’alimentation des animaux entretenus sur les marchés à bétail et dans les abattoirs ;
+
+-	réglementer la production et définir les conditions de conservation des semences fourragères ;
+
+-	définir les modalités du contrôle de la qualité des semences fourragères.
+
+###	Conclusion
+
+Les pratiques actuelles d’alimentation animale en Côte d’Ivoire comportent des points critiques en matière de sécurité sanitaire des aliments pour les populations.
+
+Le dispositif juridique et institutionnel déjà en vigueur assure un niveau minimum de sécurité sanitaire des aliments pour animaux qu’il paraît nécessaire d’améliorer. Ce qui passe nécessairement par l’amélioration du cadre juridique et institutionnel existant en prenant principalement en compte la préservation de la santé publique.
+
