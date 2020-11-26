@@ -7,10 +7,12 @@ documentclass: book
 #bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Notes du cours de Qualité des aliments du bétail, format gitbook."
+description: "Notes de cours : Qualité des aliments du bétail"
 ---
 
-# Objectifs du cours
+# Objectifs du cours 
+
+_**Note : Pour Télécharger la version PDF, cliquez sur Download dans ce [lien](https://github.com/rgoals/Qualite/blob/master/Qualite.pdf).**_
 
 Ce cours a pour objectifs :
 
@@ -38,19 +40,9 @@ Au sortir de ce cours, vous devriez (entre autres) :
 
 Il est essentiel pour la santé animale, pour l’environnement et pour la sécurité des aliments d’origine animale que les aliments pour animaux ne présentent aucun danger. Les exemples illustrant le lien étroit existant entre la sécurité des aliments pour animaux et les **denrées animales et d'origine animale (DAOA)** destinés à l'alimentation humaine sont légion.
 
-> Par exemple, dans l'UE, en 2001, l’utilisation des **farines de viande et d’os de mammifères (FVOM)** a été interdite dans tous les aliments destinés à l’alimentation des animaux d’élevage car un lien a été établi entre ces farines et la propagation de l’**encéphalopathie spongiforme bovine (ESB)** chez les bovins ainsi qu'une relation entre la viande d'animaux malades de l’**ESB** et la transmission d'une variante de la **maladie de Creutzfeldt-Jakob (vMCJ)** chez l’homme.
+>  Par exemple, l’utilisation  des **farines de viande et d’os de mammifères (FVOM)** a été interdite dans tous les aliments destinés à l’alimentation des animaux d’élevage dans l'UE en 2001 car un lien a été établi entre ces farines et la propagation de l’**encéphalopathie spongiforme bovine (ESB)** chez les bovins ainsi qu'une relation entre la viande d'animaux malades de l’**ESB** et la transmission d'une variante de la **maladie de Creutzfeldt-Jakob (vMCJ)** chez l’homme.
 
-Les aliments avec lesquels les éleveurs nourrissent les animaux sont sélectionnés en fonction d'une série de critères, notamment :
-
--	l’espèce,
-
-- l’âge des animaux, 
-
--	le type de denrée produit (viande, lait ou œufs), 
-
--	le prix, la disponibilité et la valeur nutritive
-
--	ainsi que des facteurs géographiques tels que la qualité du sol et le climat. 
+Les aliments avec lesquels les éleveurs nourrissent les animaux sont sélectionnés en fonction d'une série de critères, notamment l’espèce, l’âge, le type de denrée produit (_viande, lait ou œufs_), le prix, la disponibilité, la valeur nutritive ainsi que des facteurs géographiques tels que la qualité du sol et le climat. 
 
 Il existe différents types d'aliments pour animaux, à savoir :
 
@@ -71,23 +63,17 @@ Les dangers pour la salubrité des aliments peuvent être **biologiques**, **chi
 La présence dans les aliments pour animaux et dans leurs ingrédients de substances indésirables [dangers] telles que :
 
 -	les contaminants industriels et environnementaux, 
-
 -	les pesticides, 
-
 -	les radionucléides, 
-
 -	les polluants organiques persistants, 
-
 -	les agents pathogènes, 
-
 -	et les toxines dont les mycotoxines 
 
 devrait être décelée, contrôlée et réduite au minimum. 
 
 Les dangers pour la santé des consommateurs présentés par chaque substance indésirable devraient être évalués et cette évaluation pourrait conduire à la « **fixation de limites maximales concernant la présence de ces substances dans les aliments pour animaux et leurs ingrédients, voire à l'interdiction de certaines substances dans l'alimentation animale** ».
 
-
-**TABLE DES MATIÈRES**
+**Table des matières**
 
 [**Chapitre 1.**](https://rgoals.github.io/Qualite/index.html) Objectifs et contexte du cours
 
@@ -105,3 +91,6 @@ Les dangers pour la santé des consommateurs présentés par chaque substance in
 
 [**Chapitre 8.**](https://rgoals.github.io/Qualite/references.html) Références bibliographiques
 
+**Pour Télécharger la version PDF, cliquez sur Download dans ce [lien](https://github.com/rgoals/Qualite/blob/master/Qualite.pdf).**
+
+**Bonne lecture 😎!**
