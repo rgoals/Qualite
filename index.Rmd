@@ -75,21 +75,21 @@ Les dangers pour la santé des consommateurs présentés par chaque substance in
 
 **Table des matières**
 
-[**Chapitre 1.**](https://rgoals.github.io/Qualite/index.html) Objectifs et contexte du cours
+[**Chapitre 1.**](https://git.io/Jk9Ck) Objectifs et contexte du cours
 
-[**Chapitre 2.**](https://rgoals.github.io/Qualite.html) L'aliment du bétail de qualité
+[**Chapitre 2.**](https://git.io/Jk9Cs) L'aliment du bétail de qualité
 
-[**Chapitre 3.**](https://rgoals.github.io/Qualite/definitions.html) Définitions
+[**Chapitre 3.**](https://git.io/Jk9Cn) Définitions
 
-[**Chapitre 4.**](https://rgoals.github.io/Qualite/voies.html) Les voies de contamination des aliments
+[**Chapitre 4.**](https://git.io/Jk9CE) Les voies de contamination des aliments
 
-[**Chapitre 5.**](https://rgoals.github.io/Qualite/dangers.html) Les dangers préoccupants courants selon la catégorie d'ingrédients et d'aliments
+[**Chapitre 5.**](https://git.io/Jk9C2) Les dangers préoccupants courants selon la catégorie d'ingrédients et d'aliments
 
-[**Chapitre 6.**](https://rgoals.github.io/Qualite/effets.html) Effets des contaminants sur la salubrité des aliments pour animaux et risques de santé publique
+[**Chapitre 6.**](https://git.io/Jk9CV) Effets des contaminants sur la salubrité des aliments pour animaux et risques de santé publique
 
-[**Chapitre 7.**](https://rgoals.github.io/Qualite/mesures.html) Mesures de préservation de la qualité des aliments pour animaux, et de protection des consommateurs
+[**Chapitre 7.**](https://git.io/Jk9C6) Mesures de préservation de la qualité des aliments pour animaux, et de protection des consommateurs
 
-[**Chapitre 8.**](https://rgoals.github.io/Qualite/references.html) Références bibliographiques
+[**Chapitre 8.**](https://git.io/Jk9Ci) Références bibliographiques
 
 **Pour Télécharger la version PDF, cliquez sur Download dans ce [lien](https://github.com/rgoals/Qualite/blob/master/Qualite.pdf).**
 
