@@ -10,7 +10,7 @@ link-citations: yes
 description: "Notes de cours : Qualité des aliments du bétail"
 ---
 
-# Objectifs du cours{#objectif}
+# Objectifs du cours
 
 _**Note : Pour Télécharger la version PDF, cliquez sur Download dans ce [lien](https://github.com/rgoals/Qualite/blob/master/Qualite.pdf).**_
 
